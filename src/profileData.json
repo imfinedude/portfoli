@@ -1,81 +1,70 @@
 {
 	"landing": {
-		"firstName": "Anupam",
-		"lastName": "Dagar",
-		"phoneNumber": "+91-0123456789",
-		"bio": "I am an opensource contributor and have contributed to Zulip, Hasura, Fossasia, Publiclab and many other projects. My tech stack includes Python and Javascript. Python for server side and scripting and Javascript for the frontend. I use Django framework for the server side development and React for the frontend development. I have also worked with GraphQL. I am a GitHub Campus Expert at my insititute where I am responsible for building on campus community. I am the lead organiser of Hack In The North Hackathon and the cofounder of Pragma Conference held at IIIT Allahabad.",
-    "email": "dagaranupam@gmail.com",
-    "linkedin": "https://linkedin.com/in/anupamdagar",
-		"github": "https://github.com/Anupam-dagar"
+		"firstName": "Muhammad",
+		"lastName": "Shahzad",
+		"phoneNumber": "1-631-316-8123",
+		"bio": "Technology Enthusiast with more than ten years of experience in Technology Management, covering all levels of support and with cross functional roles . Strengths include diagnosing, evaluating, troubleshooting and resolving issues and drive towards resolution with multiple teams in a complex and hybrid infrastructure environment. Currently focused on Cyber Security and Completed my Masters in Cyber Security from Syracuse University.",
+    "email": "mqasims@live.com",
+    "linkedin": "https://linkedin.com/in/muhammad-qasim-shahzad/",
+		"github": "https://github.com/imfinedude"
 	},
 	"experience": [
 		{
-				"position": "GitHub Campus Expert",
-				"organization": "GitHub",
-				"aboutWork": "Responsible for building the on campus community with the support of GitHub.",
-				"fromDate": "August 2018",
+				"position": "Network Integration Lead",
+				"organization": "Custom Computer Specialist",
+				"aboutWork": "System Integration for SCA Project at NYC DOE Schools",
+				"fromDate": "May 2016",
 				"toDate": "Present"
 		},
 		{
-			"position": "Opensource Developer Intern",
-			"organization": "Fossasia",
-			"aboutWork": "Contributing to Fossasia's open event server and frontend as an intern. Resolved numerous bugs and added new features to the eventyay platform.",
-			"fromDate": "June 2019",
-			"toDate": "Present"
+			"position": "Senior NOC Engineer",
+			"organization": "Barnes and Nobles",
+			"aboutWork": "Analyze,Support and Manage the Barnes and Noble Network infrastructure and E-Commerce Website.",
+			"fromDate": "April 2016",
+			"toDate": "July 2016"
 		},
 		{
-			"position": "Software Developer Intern",
-			"organization": "Hasura",
-			"aboutWork": "Worked on Hasura's GraphQL engine and added new features in it.",
-			"fromDate": "December 2018",
-			"toDate": "January 2019"
+			"position": "Infrastructure Analyst",
+			"organization": "Citi",
+			"aboutWork": "Responsible for leading a team contacting support teams, maintaining incident records, opening bridge lines, assisting with business communications and management escalations.Identify, track, and resolve any pain, affecting our technology environment from an application or business process point of view as quickly as possible. monitoring business processes and applications using a variety of monitoring tools and manual health checks. To record, classify, and prioritize alerts/issues within the environment",
+			"fromDate": "June 2013",
+			"toDate": "March 2016"
+		},
+		{
+			"position": "Technology Specialist",
+			"organization": "Citi",
+			"aboutWork": "Contact support teams, maintain incident records,open bridge lines, assisting with business communication and management escalations. Identify, track, and resolve any pain affecting technology environment from an application or business process point of view as quickly aspossible. Record, classify, and prioritize alerts/issues within the environment.provide pro-active 2nd level support to the CBNA/CFNA environments. perform preliminary troubleshooting of hardware and software problems . Perform 1st level analysis and troubleshooting of complex or intermittent LAN/WAN or Client/Server issues. Analyze and present data to explain the cause.",
+			"fromDate": "June 2011",
+			"toDate": "June 2013"
 		}
 	],
+	
 	"education": [{
-			"university": "Indian Institute of Information Technology Allahabad",
-			"degree": "Bachelor of Technology",
-			"gpa": "12.34",
-			"fromDate": "August 2016",
-			"toDate": "Present"
-		}
+			"university": "Syracuse University",
+			"degree": "Master Of Science in Cyber Security",
+			"fromDate": "January 2018",
+			"toDate": "December 2019"
+		},
+		{
+		"university": "Hamdard University",
+			"degree": "Bachelor Of Engineering in Computer Systems",
+			"fromDate": "August 2002",
+			"toDate": "December 2006"
+	}
 	],
-	"skills": [{
-			"name": "HTML5"
+	"skills": [
+		{
+			"name": "Kali,Metasploit,Splunk,Wirehark"
 		},
 		{
-			"name": "CSS3"
+			"name": "Axis,Sony and Panasonic Cameras"
 		},
 		{
-			"name": "Javascript"
+			"name": "Cisco Switches,Routers,Firewalls"
 		},
 		{
-			"name": "React"
-		},
-		{
-			"name": "Nodejs"
-		},
-		{
-			"name": "Python"
-		},
-		{
-			"name": "Django"
-		},
-		{
-			"name": "Ember"
-		}
-	],
-	"interests": {
-		"paragraphOne": "Apart from being a web developer, I enjoy most of my time being outdoors. In the winter, I am an avid skier and novice ice climber. During the warmer months here in Colorado, I enjoy mountain biking, free climbing, and kayaking.",
-		"paragraphTwo": "When forced indoors, I follow a number of sci-fi and fantasy genre movies and television shows, I am an aspiring chef, and I spend a large amount of my free time exploring the latest technology advancements in the front-end web development world."
-	},
-	"awards": [{
-			"awardDetail": "Hack 36 3rd prize winner."
-		},
-		{
-			"awardDetail": "Mentor OpenCode'19"
-		},
-		{
-			"awardDetail": "Started North India's First Student Design and Developer Conference."
-		}
+			"name": "Python,C++"
+		}	
+		
 	]
-}
+	}
