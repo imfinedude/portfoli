@@ -10,11 +10,18 @@
 	},
 	"experience": [
 		{
+				"position": "Technical Account Manager",
+				"organization": "Afiniti",
+				"aboutWork": "Managing Applicationa and infrastructure within client envoirnment",
+				"fromDate": "May 2021",
+				"toDate": "Present"
+		},
+		{
 				"position": "Network Integration Lead",
 				"organization": "Custom Computer Specialist",
 				"aboutWork": "System Integration for SCA Project at NYC DOE Schools",
 				"fromDate": "May 2016",
-				"toDate": "Present"
+				"toDate": "May 2021"
 		},
 		{
 			"position": "Senior NOC Engineer",
